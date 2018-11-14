@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes Advance</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+</resources>
